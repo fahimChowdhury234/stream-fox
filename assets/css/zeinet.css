@@ -33,7 +33,7 @@
   --zeinet-base-rgb: 101, 22, 28;
   --zeinet-black: #30353a;
   --zeinet-black-rgb: 48, 53, 58;
-  --zeinet-primary: #089fac;
+  --zeinet-primary: #c15821;
   --zeinet-primary-rgb: 8, 159, 172;
   --zeinet-extra: #f7f5f1;
   --zeinet-extra-rgb: 247, 245, 241;
@@ -421,7 +421,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../img/FOX_Design\ Canva.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
